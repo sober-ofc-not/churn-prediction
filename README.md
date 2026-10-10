@@ -17,3 +17,7 @@ Python 3.11, SQL (SQLite), pandas, NumPy, scikit-learn, Jupyter, Matplotlib.
 python3.11 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+## Данные
+
+Проект использует датасет [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) с Kaggle.
+
